@@ -1,0 +1,1 @@
+It's a clone project of cynthiaugwu.com, awwward website. Guidence from sheryians coding school youtube channel.
